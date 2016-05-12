@@ -1,3 +1,4 @@
+
 namespace LeagueSharp.SDK.Utils
 {
     using System;
