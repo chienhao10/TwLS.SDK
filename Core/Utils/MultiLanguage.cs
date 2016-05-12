@@ -1,4 +1,4 @@
-espace LeagueSharp.SDK.Utils
+namespace LeagueSharp.SDK.Utils
 {
     using System;
     using System.Collections.Generic;
