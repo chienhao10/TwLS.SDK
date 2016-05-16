@@ -1118,7 +1118,7 @@
     "Warwick": "\u55dc\u8840\u7375\u624b-\u6c83\u7dad\u514b",
     "Wukong": "\u9f4a\u5929\u5927\u8056-\u609f\u7a7a",
     "Xerath": "\u9060\u53e4\u9b54\u5c0e-\u9f4a\u52d2\u65af",
-    "Xinzhao": "\u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
+    "XinZhao": "\u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
     "Yasuo": "\u653e\u9010\u6d6a\u4eba-\u72bd\u5bbf",
     "Yorick": "\u58b3\u5834\u9818\u4e3b-\u7d04\u745e\u79d1",
     "Zac": "\u9b54\u4eba-\u672d\u514b",
@@ -1623,7 +1623,7 @@
     "Cast On Warwick": "\u55dc\u8840\u7375\u624b-\u6c83\u7dad\u514b",
     "Cast On Wukong": "\u9f4a\u5929\u5927\u8056-\u609f\u7a7a",
     "Cast On Xerath": "\u9060\u53e4\u9b54\u5c0e-\u9f4a\u52d2\u65af",
-    "Cast On Xinzhao": "\u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
+    "Cast On XinZhao": "\u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
     "Cast On Yasuo": "\u653e\u9010\u6d6a\u4eba-\u72bd\u5bbf",
     "Cast On Yorick": "\u58b3\u5834\u9818\u4e3b-\u7d04\u745e\u79d1",
     "Cast On Zac": "\u9b54\u4eba-\u672d\u514b",
@@ -1754,7 +1754,7 @@
     "Warwick Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u55dc\u8840\u7375\u624b-\u6c83\u7dad\u514b",
     "Wukong Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u9f4a\u5929\u5927\u8056-\u609f\u7a7a",
     "Xerath Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u9060\u53e4\u9b54\u5c0e-\u9f4a\u52d2\u65af",
-    "Xinzhao Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
+    "XinZhao Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u8482\u746a\u897f\u4e9e\u7e3d\u7ba1-\u8d99\u4fe1",
     "Yasuo Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u653e\u9010\u6d6a\u4eba-\u72bd\u5bbf",
     "Yorick Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u58b3\u5834\u9818\u4e3b-\u7d04\u745e\u79d1",
     "Zac Not Support": "Vs\u7cfb\u5217\u672a\u652f\u63f4 \u9b54\u4eba-\u672d\u514b",
@@ -1869,7 +1869,7 @@
     "Lock target": "\u9396\u5b9a\u76ee\u6a19",
     "Lock target on MIA (ms)": "\u9396\u5b9a\u76ee\u6a19\u6642\u9593",
     "Show countdown": "\u986f\u793a\u5012\u8a08\u6642",
-    "Show notification": "\u986f\u793a\u901a\u77e5",
+    "Show notification": "\u986f\u793a\u901a\u77e5"
 }
     </value>
   </data>
