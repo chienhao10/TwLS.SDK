@@ -2374,7 +2374,16 @@
     "KillSteal Q": "\u4f7f\u7528Q\u64ca\u6bba",
     "KillSteal W": "\u4f7f\u7528W\u64ca\u6bba",
     "R Fire On Tap": "\u7576\u6575\u4eba\u6b98\u8840\u4f7f\u7528R",
-    "Hoola Jhin": "\u79c1\u4eba\u6539\u65cb\u6280\u5927\u5e2b-\u71fc",
+    "Harass.Use Youmuu": "\u9a37\u64fe\u4e2d\u4f7f\u7528 : \u5996\u5922\u9b3c\u5200",
+    "Harass.Use BOTRK(Cutless)": "\u9a37\u64fe\u4e2d\u4f7f\u7528 : \u6b9e\u843d\u738b\u8005\u4e4b\u528d",
+    "Always E": "\u667a\u80fd E \u6a21\u5f0f",
+    "Use W Auto (Toole)": "\u81ea\u52d5\u4f7f\u7528W (\u53ef\u5207\u63db)",
+    "Min Mana for W Auto (%)": "\u81ea\u52d5W \u6700\u5c11\u9b54\u529b %",
+    "Tools Settings": "\u6b9e\u843d / \u5996\u5922",
+    "Laneclear": "\u6e05\u7dda\u8a2d\u5b9a",
+    "Force E": "\u5c0d\u6575\u4eba\u958bE\u6280\u80fd",
+    "Use W Auto (Toggle)": "\u7576\u9396\u5b9a\u76ee\u6a19\u6642 \u81ea\u52d5\u4f7f\u7528W",
+    "Min Mana For W Auto (%)": "\u4f7f\u7528\u81ea\u52d5W\u6280\u80fd \u6700\u5c0f\u9b54\u529b %",
     "Press a key": "\u9078\u64c7\u4f60\u8981\u8a2d\u5b9a\u7684\u6309\u9375"
 }
     </value>
